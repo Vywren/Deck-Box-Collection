@@ -1,1 +1,2 @@
-*.gcode
+basic holder.gcode
+fit_standing.gcode
